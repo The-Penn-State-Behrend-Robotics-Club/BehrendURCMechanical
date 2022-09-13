@@ -41,3 +41,5 @@ CH-1-01-driveMotorGearbox.ipt<br />
 - If an assembly is giving you errors, fix the errors.  Don't just live with them
 - Before editing an assembly, consult the rest of your subteam
 - Give all parts a material so rough weight calculation can be completed
+- Design everything in metric, do conversions outside of Inventor
+- All 3D modeling should be done in Inventor 2023
