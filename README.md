@@ -8,7 +8,7 @@ SubteamName-FileType-RevisionNumber-Name
 Subteam Name<br />
 MI - Misc<br />
 CH - Chassis<br />
-AP - Aperatus (Arm)<br />
+AP - Apparatus (Arm)<br />
 SC - Science<br />
 CO - Controls<br />
 AD - Adminstrative/Paperwork<br />
